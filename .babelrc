@@ -1,9 +1,11 @@
 {
   "env": {
     "production": {
+      "presets": ["react"],
       "plugins": [["emotion", { "hoist": true }]]
     },
     "development": {
+      "presets": ["react"],
       "plugins": [
         ["emotion", { "sourceMap": true, "autoLabel": true }]
       ]
