@@ -1,0 +1,30 @@
+{
+  "name": "jake",
+  "version": "1.0.0",
+  "description": "The flexible ui library for feedcast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feedcast/jake.git"
+  },
+  "keywords": [
+    "ui",
+    "react",
+    "kit",
+    "atomic"
+  ],
+  "author": "Cristian Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feedcast/jake/issues"
+  },
+  "homepage": "https://github.com/feedcast/jake#readme",
+  "dependencies": {
+    "babel-plugin-emotion": "^8.0.12",
+    "emotion": "^8.0.12",
+    "react-emotion": "^8.0.12"
+  }
+}
